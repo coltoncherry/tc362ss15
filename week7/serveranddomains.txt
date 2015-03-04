@@ -1,0 +1,3 @@
+Server IP: 104.236.19.69
+Domain1: colton.ignorelist.com
+Domain2: coltoncherry.mooo.com
